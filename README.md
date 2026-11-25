@@ -13,5 +13,5 @@ I am a Computer Science PhD student at the **University of Idaho**, researching 
 - **Infrastructure & Tools:** Linux, SLURM (HPC GPU Clusters), Git, LaTeX
 
 #### 🔗 Links
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=Y1mVSGEAAAAJ)
+- [[Google Scholar](https://scholar.google.com/citations?hl=en&user=Y1mVSGEAAAAJ](https://scholar.google.com/citations?user=Y1mVSGEAAAAJ&hl=en))
 - 📫 Contact: `ashr1376@vandals.uidaho.edu`
